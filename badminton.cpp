@@ -2,7 +2,7 @@
 #include <iostream>
 #include <chrono>
 #include <cmath>
-
+///
 
 //Global score conters
 int player_score = 0;
