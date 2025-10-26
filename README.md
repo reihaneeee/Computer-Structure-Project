@@ -83,5 +83,5 @@ You can compile the project by linking against Raylib. A typical command on a Li
 ```bash
 g++ main.cpp -o pong_game -lraylib -lm -ldl -lrt -lX11
 
-```Compile Command (Windows with MinGW)
+(Windows with MinGW)
 g++ main.cpp -o pong_game.exe -I<path-to-raylib-include> -L<path-to-raylib-lib> -lraylib -lopengl32 -lgdi32 -lwinmm
